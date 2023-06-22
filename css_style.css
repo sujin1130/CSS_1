@@ -1,0 +1,31 @@
+/* 스타일시트 : 국토면적 테이블 관련 스타일
+update: 23.06.21
+*/
+
+/* 외부 스타일 시트
+span {
+    color: blue;
+    font-size: 24px;
+}
+*/
+
+/*  */
+.first {
+    color: blue;
+    font-size: 24px;
+}
+
+#second {
+    color:brown;
+    font-size: 24px;
+}
+
+p, span {
+    color: green;
+    font-size: 24px;
+}
+
+div>p {
+    color: blue;
+    font-size: 24px;
+}
